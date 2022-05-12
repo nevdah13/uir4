@@ -911,6 +911,9 @@ margin-right: -100px;
 }
 
 @media only screen and (max-device-width: 992px){
+    .text_flex{
+    margin-top: -7%;
+}
 /*text for 3 rectangle*/
 .bal_text{
     font-size: 48px;
